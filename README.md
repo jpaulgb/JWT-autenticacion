@@ -1,3 +1,5 @@
+## Autenticación usando JWT
+
 ## ✅ Cómo probar En Postman, Verbo: POST →
 ```bash
 http://localhost:3000/api/register
